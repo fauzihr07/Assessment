@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assesment 1</string>
+    <string name="title">Apa yang akan dibeli?</string>
+    <string name="name">Nama</string>
+    <string name="quantity">Jumlah</string>
+    <string name="buy">Beli</string>
+    <string name="type">Jenis</string>
+    <string name="total_price">Total Harga</string>
+    <string name="share_text">Text Bagikan</string>
+    <string name="share">Bagikan</string>
+    <string name="input_invalid">Tidak Boleh Kosong</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Aplikasi ini adalah aplikasi android yang memudahkan
+        seseorang untuk memesan motor dengan lebih mudah.\n\nAplikasi ini dibuat untuk Assesment Mobpro 1\n\nCopyright © 2024 Fauzi Hadi Ramdhani.\nAll rights
+    reserved</string>
+    <string name="kembali">Kembali</string>
+</resources>
